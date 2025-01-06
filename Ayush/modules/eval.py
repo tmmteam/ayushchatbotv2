@@ -10,7 +10,7 @@ from pyrogram import Client
 from pyrogram import filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
-from Ayush import OWNER, AarohiX
+from Ayush import OWNER, Ayush
 
 
 async def aexec(code, client, message):
