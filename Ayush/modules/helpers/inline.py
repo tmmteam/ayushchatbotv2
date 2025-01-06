@@ -107,7 +107,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="« ʜᴇʟᴘ »", url=f"https://t.me/{AarohiX.username}?start=help"
+            text="« ʜᴇʟᴘ »", url=f"https://t.me/{Ayush.username}?start=help"
         ),
         InlineKeyboardButton(text="⦿ ᴄʟᴏsᴇ ⦿", callback_data="CLOSE"),
     ],
