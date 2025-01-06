@@ -1,4 +1,4 @@
-from AyushX import db
+from Ayush import db
 
 chatsdb = db.chatsdb
 
