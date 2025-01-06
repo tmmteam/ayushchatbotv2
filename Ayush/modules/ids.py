@@ -1,7 +1,7 @@
 from pyrogram import filters
 from pyrogram.enums import ParseMode
 
-from AarohiX import AarohiX
+from Ayush import Ayush
 
 
 @Ayush.on_cmd("id")
