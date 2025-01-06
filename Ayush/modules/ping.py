@@ -8,7 +8,7 @@ from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardMarkup, Message
 
 from config import OWNER_USERNAME
-from Ayush import AarohiX
+from Ayush import Ayush
 from Ayush.database.chats import add_served_chat
 from Ayush.database.users import add_served_user
 from Ayush.modules.helpers import PNG_BTN
