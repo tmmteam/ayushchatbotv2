@@ -8,7 +8,7 @@ from pyrogram.enums import ChatAction
 from pyrogram.types import InlineKeyboardMarkup, Message
 
 from config import MONGO_URL
-from Ayush import AarohiX
+from Ayush import Ayush
 from Ayush.modules.helpers import CHATBOT_ON, is_admins
 
 
