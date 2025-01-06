@@ -3,7 +3,7 @@ import random
 from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardMarkup, Message
-from Ayush import AarohiX
+from Ayush import Ayush
 from Ayush.database.chats import add_served_chat
 from Ayush.database.users import add_served_user
 from Ayush.modules.helpers import (
