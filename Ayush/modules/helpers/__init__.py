@@ -3,7 +3,7 @@ from typing import Callable
 from pyrogram.enums import ChatMemberStatus
 from pyrogram.types import Message
 
-from Ayush import OWNER, AarohiX
+from Ayush import OWNER, Ayush
 
 
 def is_admins(func: Callable) -> Callable:
