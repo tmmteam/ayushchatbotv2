@@ -3,7 +3,7 @@ from pymongo import MongoClient
 import config
 
 aayudb = MongoClient(config.MONGO_URL)
-aayu = ayushdb["aayuDb"]["aayu"]
+aayu = aayudb["aayuDb"]["aayu"]
 
 
 from .chats import *
